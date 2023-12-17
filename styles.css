@@ -4,7 +4,7 @@ body{
 	padding:0;
 }
 section{
-	background:#f5f5f5;
+	background-color:#f5f5f5;
 	padding:50px;
 
 	
@@ -14,7 +14,7 @@ h1{
 	padding:30px 10px 10px 20px;
 }
 div{
-	background:white;
+	background-color:white;
 	padding:5px;
 	border:2px solid gray;
 	margin:20px;
